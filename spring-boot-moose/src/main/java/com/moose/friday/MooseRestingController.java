@@ -11,7 +11,7 @@ public class MooseRestingController {
 	@GetMapping
 	public String sayit()
 	{
-		return "hello chocco dude rocks";
+		return "hello chocco dude rocks with max";
 	}
 	
 
